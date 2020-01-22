@@ -1,0 +1,26 @@
+body {
+    background-color: pink;
+}
+
+.board {
+    background-color: whitesmoke;
+}
+
+.board td {
+    width: 20px;
+    height: 20px;
+    color: whitesmoke;
+}
+
+.mine {
+    color: black;
+}
+
+.cell {
+    display: ruby-text;
+    border-color: black;
+    border-width: 10px;
+    text-align: center;
+    width: 25px;
+    height: 25px;
+}
